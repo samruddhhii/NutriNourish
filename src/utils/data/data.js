@@ -27,11 +27,11 @@ const surveyData = {
   },
 }
 const API = {
-  ID : "YOUR_EDAMAM_ID",
-  KEY : "YOUR_EDAMAM_API_KEY",
+  ID : "2038341a",
+  KEY : "82899232e623d06305802dc7dfb95592",
   URL : "https://api.edamam.com/search?",
 }
 export {
-  surveyData as Survey,
-  API,
+  API, surveyData as Survey
 }
+
